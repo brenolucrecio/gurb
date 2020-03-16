@@ -1,0 +1,9 @@
+C:\Users\Breno\source\repos\Gurb\Gurb\bin\Release\Gurb.exe
+C:\Users\Breno\source\repos\Gurb\Gurb\bin\Release\Gurb.pdb
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.Properties.Resources.resources
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.Form1.resources
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.csproj.GenerateResource.cache
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.csproj.CoreCompileInputs.cache
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.exe
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.pdb
+C:\Users\Breno\source\repos\Gurb\Gurb\obj\Release\Gurb.csprojAssemblyReference.cache
