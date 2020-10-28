@@ -1,2 +1,2 @@
 # Gurb
-software to generate sql commands.
+software to generate sql commands
