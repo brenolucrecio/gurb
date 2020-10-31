@@ -1,2 +1,2 @@
 # gurb
-software to generate sql commands
+:turtle: software to generate sql commands
