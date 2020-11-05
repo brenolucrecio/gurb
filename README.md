@@ -4,4 +4,4 @@
 
 :turtle: software to generate sql commands.
 
-> the present is our past.
+> the present is our past
